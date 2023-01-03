@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b86922b8-281d-407f-9ef3-27df972879b2" name="Changes" comment="Basic">
-      <change afterPath="$PROJECT_DIR$/src/Button/ButtonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Framework/MyFirstApp.java" afterDir="false" />
+    <list default="true" id="b86922b8-281d-407f-9ef3-27df972879b2" name="Changes" comment="Button Demo">
+      <change afterPath="$PROJECT_DIR$/src/CheckBox/CheckboxDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +43,26 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ButtonDemo">
+  <component name="RunManager" selected="Application.CheckboxDemo">
     <configuration name="ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Button.ButtonDemo" />
       <module name="Firstapp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Button.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckBox.CheckboxDemo" />
+      <module name="Firstapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CheckBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckboxDemo" />
         <item itemvalue="Application.ButtonDemo" />
         <item itemvalue="Application.MyFirstApp" />
         <item itemvalue="Application.FirstApp" />
@@ -96,7 +109,9 @@
       <updated>1672596777631</updated>
       <workItem from="1672596781114" duration="1626000" />
       <workItem from="1672664933754" duration="1175000" />
-      <workItem from="1672683727082" duration="1308000" />
+      <workItem from="1672683727082" duration="3473000" />
+      <workItem from="1672718864956" duration="1923000" />
+      <workItem from="1672721591898" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <created>1672597475367</created>
@@ -112,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672597687633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Button Demo">
+      <created>1672685373707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672685373707</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting" />
     <MESSAGE value="Basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic" />
+    <MESSAGE value="Button Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Button Demo" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
