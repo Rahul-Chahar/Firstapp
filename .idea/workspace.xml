@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86922b8-281d-407f-9ef3-27df972879b2" name="Changes" comment="CheckboxDemo">
+      <change afterPath="$PROJECT_DIR$/src/TextField/Text/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextField/TextFieldDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckboxDemo">
+  <component name="RunManager" selected="Application.Text">
     <configuration name="ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Button.ButtonDemo" />
       <module name="Firstapp" />
@@ -69,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstApp" />
-      <module name="Firstapp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyFirstApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Framework.MyFirstApp" />
       <module name="Firstapp" />
@@ -89,12 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextField.Text.Text" />
+      <module name="Firstapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextField.Text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextField.TextFieldDemo" />
+      <module name="Firstapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextField.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.TextFieldDemo" />
         <item itemvalue="Application.CheckboxDemo" />
         <item itemvalue="Application.ButtonDemo" />
         <item itemvalue="Application.MyFirstApp" />
-        <item itemvalue="Application.FirstApp" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +133,7 @@
       <workItem from="1672683727082" duration="3473000" />
       <workItem from="1672718864956" duration="1923000" />
       <workItem from="1672721591898" duration="337000" />
-      <workItem from="1672855778551" duration="601000" />
+      <workItem from="1672855778551" duration="4152000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <created>1672597475367</created>
@@ -141,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672721915553</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CheckboxDemo">
+      <created>1672856914548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672856914548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
