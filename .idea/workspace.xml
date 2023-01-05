@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b86922b8-281d-407f-9ef3-27df972879b2" name="Changes" comment="Notepad">
-      <change afterPath="$PROJECT_DIR$/src/ListBox_and_Choice/ListBoxDemo.java" afterDir="false" />
+    <list default="true" id="b86922b8-281d-407f-9ef3-27df972879b2" name="Changes" comment="List and Choice box">
+      <change afterPath="$PROJECT_DIR$/src/Scrollbar/ScrollbarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListBoxDemo">
-    <configuration name="CheckboxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckBox.CheckboxDemo" />
+  <component name="RunManager" selected="Application.ScrollbarDemo">
+    <configuration name="ListBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListBox_and_Choice.ListBoxDemo" />
       <module name="Firstapp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CheckBox.*" />
+          <option name="PATTERN" value="ListBox_and_Choice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListBox_and_Choice.ListBoxDemo" />
+    <configuration name="ScrollbarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scrollbar.ScrollbarDemo" />
       <module name="Firstapp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListBox_and_Choice.*" />
+          <option name="PATTERN" value="Scrollbar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScrollbarDemo" />
         <item itemvalue="Application.ListBoxDemo" />
         <item itemvalue="Application.TextAreaDemo" />
         <item itemvalue="Application.Text" />
         <item itemvalue="Application.TextFieldDemo" />
-        <item itemvalue="Application.CheckboxDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,8 @@
       <workItem from="1672718864956" duration="1923000" />
       <workItem from="1672721591898" duration="337000" />
       <workItem from="1672855778551" duration="4322000" />
-      <workItem from="1672921142441" duration="3175000" />
+      <workItem from="1672921142441" duration="3412000" />
+      <workItem from="1672940886087" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="Starting">
       <created>1672597475367</created>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672923451313</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="List and Choice box">
+      <created>1672925323774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925323774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +216,8 @@
     <MESSAGE value="CheckboxDemo" />
     <MESSAGE value="TextEvent" />
     <MESSAGE value="Notepad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notepad" />
+    <MESSAGE value="List and Choice box" />
+    <option name="LAST_COMMIT_MESSAGE" value="List and Choice box" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
